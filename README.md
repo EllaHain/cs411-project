@@ -32,10 +32,10 @@ playlist seed. </li>
 <li><b>Epic:</b> Weather based playlists recommendations</li>
 <li><b>User Story 1:</b> As a user, I want to ensure that my Spotify account will not lose any of my own data when merging with another website.
 <ul>
-<li><b>Task:</b>
+<li><b>Task:</b> Eliminate data migration while combining different APIs
 <ul>
-<li><b>Ticket 1:</b></li>
-<li><b>Ticket 2:</b></li>
+<li><b>Ticket 1:</b> Selectively share and migrate essential data necessary for the merged functionality avoiding transference of information that is not directly relevant to the user experience on the other website.</li>
+<li><b>Ticket 2:</b> Initialize a data backup before the merge to serve as a safety net in case anything goes wrong during the migration process, reducing the risk of data loss.</li>
 </ul>
 </li>
 </ul>
