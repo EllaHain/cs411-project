@@ -18,7 +18,7 @@ playlist seed. </li>
     <li>Use OAuth authentication to log into Spotify</li>
     <li>Securely store OpenWeatherMap API keys in local files only without exposing them on GitHub/the web</li>
   </ul></li>
-  <li><b>Non-Functional Requirement 2:</b>
+  <li><b>Non-Functional Requirement 2: Fault tolerace</b>
     <ul> 
     <li>Minimize crashes and errors caused from large amounts of matching playlists
 </li>
