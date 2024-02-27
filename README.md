@@ -1,4 +1,4 @@
-# CS411-project
+# CS411 Project
 <h1> Project Description: </h1>
 <p1>We will combine the weather API and the Spotify API in order to make an application that allows the user to receive a playlist from Spotify to match the weather. 
   We expect to use the weather API, and the Spotify API. 
@@ -9,14 +9,13 @@
 <h1>Project Requirements:</h1>
 <p1>
 <ul>
-  <li><b>Goal:</b> Create an easy to use web-interface that allows me to generate a Spotify
-playlist corresponding to the local weather.</li>
-  <li><b>Non-Goal:</b> : Dynamically / intelligently convert a weather into a matching
-playlist seed. </li>
-  <li><b>Non-Functional Requirement 1: Security</b>
+  <li><b>Goal:</b> Develop a responsive web application that allows users to receive Spotify playlist recommendations based on real-time weather conditions.
+  </li>
+  <li><b>Non-Goal:</b> : Automatically update playlists in real-time as weather changes without user intervention. </li>
+  <li><b>Non-Functional Requirement 1: Usability</b>
   <ul> 
-    <li>Use OAuth authentication to log into Spotify</li>
-    <li>Securely store OpenWeatherMap API keys in local files only without exposing them on GitHub/the web</li>
+    <li> Employ an intuitive UI/UX design that facilitates an easy-to-understand and straightforward navigation path for all functionalities</li>
+    <li>Ensure the application adapts seamlessly to different screen sizes and resolutions, including desktops, tablets, and phones, providing a consistent and optimized user experience across all devices</li>
   </ul></li>
   <li><b>Non-Functional Requirement 2: Fault tolerace</b>
     <ul> 
